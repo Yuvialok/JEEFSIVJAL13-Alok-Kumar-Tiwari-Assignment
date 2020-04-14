@@ -1,2 +1,2 @@
-# JEEFSIVJAL13-Alok-Kumar-Tiwari-Assignment
+# JEEFSIVJAL13-AlokKumarTiwari-Assignment
 Springboot Mvc Hibernate projects
